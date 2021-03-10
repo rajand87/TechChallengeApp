@@ -3,5 +3,5 @@
 "DbName" = "postgres"
 "DbPort" = "5432"
 "DbHost" = "database-1.ce3ri2d2ujer.us-east-2.rds.amazonaws.com"
-"ListenHost" = "localhost"
+"ListenHost" = "3.22.225.55"
 "ListenPort" = "3000"
