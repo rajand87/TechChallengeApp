@@ -1,6 +1,6 @@
 "DbUser" = "postgres"
 "DbPassword" = "Rajand87"
-"DbName" = "postgres"
+"DbName" = "servian"
 "DbPort" = "5432"
 "DbHost" = "database-1.ce3ri2d2ujer.us-east-2.rds.amazonaws.com"
 "ListenHost" = ""
