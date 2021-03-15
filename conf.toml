@@ -1,6 +1,5 @@
 "DbUser" = "postgres"
 "DbPassword" = "Abcde123"
 "DbName" = "servian"
-"DbPort" = "5432"
 "ListenHost" = ""
 "ListenPort" = "3000"
