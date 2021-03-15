@@ -3,3 +3,4 @@
 "DbName" = "servian"
 "ListenHost" = ""
 "ListenPort" = "3000"
+"DbPort" = "5432"
